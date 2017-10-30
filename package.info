@@ -1,0 +1,22 @@
+#
+#Sun May 28 16:29:09 CEST 2017
+owner=gvSIG Association
+code=actionConfigurator
+java-version=j1_7
+official=false
+type=Script
+version=1.0.0-4
+state=testing
+operating-system=all
+dependencies=
+sources-url=
+web-url=
+architecture=all
+model-version=1.0.1
+categories=
+description=It allows you to hide or make visible gvSIG buttons and menus.\n\nAdd to the gvSIG preferences a panel that allows activating or deactivating actions in gvSIG. Actions are the components that are associated with menus and buttons in the gvSIG toolbar. When an action is disabled, it is no longer visible.
+owner-url=
+buildNumber=4
+download-url=http\://devel.gvsig.org/download/projects/gvsig-scripts/pool/actionConfigurator/gvSIG-desktop-2.4.0-actionConfigurator-1.0.0-4-testing-all-all-j1_7.gvspkg
+gvSIG-version=2.4.0
+name=Scripts\: Action configurator

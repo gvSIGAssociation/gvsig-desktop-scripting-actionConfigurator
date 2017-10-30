@@ -1,0 +1,15 @@
+[script]
+enable = true
+
+
+[Unit]
+type = Script
+name = actionConfigurator
+description =
+createdBy =
+version =
+
+[Script]
+main = main
+Lang = python
+
